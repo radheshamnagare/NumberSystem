@@ -1,0 +1,6 @@
+NumSty.py
+setup.py
+NumberSystem.egg-info/PKG-INFO
+NumberSystem.egg-info/SOURCES.txt
+NumberSystem.egg-info/dependency_links.txt
+NumberSystem.egg-info/top_level.txt
